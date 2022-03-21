@@ -1,3 +1,12 @@
 [submodule "JARL"]
 	path = JARL
 	url = https://github.com/EnableTech/JARL
+[submodule "SheetMusicRecognition"]
+	path = SheetMusicRecognition
+	url = https://github.com/MatthewTurney/SheetMusicRecognition
+[submodule "c5"]
+	path = c5
+	url = https://github.com/kbiesiadecki141/c5.git
+[submodule "ROAR_Sim"]
+	path = ROAR_Sim
+	url = https://github.com/josephinekoe/ROAR_Sim
