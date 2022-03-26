@@ -17,10 +17,6 @@ This repository is a collection of my previous projects.
 (Fall 2020)</br>
 Submission for [UC Berkeley's Robot Open Autonomous Racing (ROAR) Competition](https://vivecenter.berkeley.edu/inaugural-roar-results-and-expansion/).
 
-## [MEP-HGG](https://github.com/RitShri/MEPHGG/tree/d3765ffaf36b894388bb37ffe98433c267d49865)
-(Fall 2021)</br>
-Performs deep reinforcement learning on a simulated robotic arm using Maximum Entropy-Based Hindsight Goal Generation.
-
 ## [Prime Number Generator](https://github.com/josephinekoe/Projects/tree/master/Prime%20Generator)
 (2013-2014)</br>
 This prime number generator uses multi-threading to continuously generate prime numbers.

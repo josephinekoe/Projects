@@ -10,6 +10,3 @@
 [submodule "ROAR_Sim"]
 	path = ROAR_Sim
 	url = https://github.com/josephinekoe/ROAR_Sim
-[submodule "MEPHGG"]
-	path = MEPHGG
-	url = https://github.com/RitShri/MEPHGG
