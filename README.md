@@ -1,6 +1,10 @@
 # Josephine Koe's Projects
 This repository is a collection of my previous projects. 
 
+## [Soft Inchworm](https://github.com/josephinekoe/Projects/tree/master/Soft%20Inchworm)
+(2023-Present)</br>
+This soft inchworm is made out of silicone and uses a single pneumatic actuator and anisotropic friction to crawl.
+
 ## [C5 (Chau's Cool Controllable Climbing Car)](https://github.com/kbiesiadecki141/c5/tree/72c8e12a2ba4dbe2b64b1d3597fd807563907348)
 (Fall 2020)</br>
 [Project C5](https://www.youtube.com/watch?v=Ex3u4fHQebM&ab_channel=JosephineKoe) is a rocker-bogie chassis with obstacle detection capabilities.
